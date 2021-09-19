@@ -1,7 +1,7 @@
 ## PhotoGallery
 Share photos on Pinterest by map view.
 
-This is a project created in Mobile Development class.
+This is an Android app project created in Mobile Development class.
 Test cases are create by Dr.K in Virginia Tech.
 
 # Features
